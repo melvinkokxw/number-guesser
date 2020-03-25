@@ -1,4 +1,4 @@
-# Number Guesse
+# Number Guesser
 Number guesser written in javascript
 
 ## Acknowledgements
